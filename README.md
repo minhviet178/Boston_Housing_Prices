@@ -1,6 +1,6 @@
 # Boston_Housing_Prices
 ### DATASET 📊
-- In this project, I will create, evaluate the performance and predictive power of your model on data collected from homes in suburbs of Boston, Massachusetts. The dataset can be accessed here: https://raw.githubusercontent.com/anhquan0412/boston_housing/master/housing.csv
+- In this project, I will create, evaluate the performance of my model on data collected from homes in suburbs of Boston, Massachusetts. The dataset can be accessed here: https://raw.githubusercontent.com/anhquan0412/boston_housing/master/housing.csv
 - My goal is to apply a machine learning model of my choice to predict the price of houses in a Boston neighborhood (which is column 'MEDV')
 
 ### MODELS🎓
